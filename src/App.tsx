@@ -4,6 +4,7 @@ import {Header} from "./components/header/Header";
 import {Main} from "./components/main/Main";
 import {Skills} from "./components/skills/Skills";
 import MyWorks from "./components/my-works/MyWorks";
+import RemoteWork from "./components/block4/RemoteWork";
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
             <Main/>
             <Skills/>
             <MyWorks/>
+            <RemoteWork/>
         </div>
     );
 }
