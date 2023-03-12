@@ -11,7 +11,7 @@ const Work = (props: WorkPropsType) => {
         <div className={s.work}>
             <div className={s.icon}>
                 <div className={s.viewWork}>
-                    Смотреть
+                   <a href="">Смотреть</a>
                 </div>
             </div>
             <h3>{props.title}</h3>

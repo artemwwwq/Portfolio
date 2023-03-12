@@ -3,9 +3,6 @@
     background-color: darkblue;
 }
 
-.removeContiner {
-    display: flex;
-}
 
 .continer {
     background-color: chocolate;
@@ -15,4 +12,8 @@
 
 .text {
 
+}
+
+.sylka {
+    background-color: bisque;
 }

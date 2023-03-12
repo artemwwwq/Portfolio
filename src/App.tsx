@@ -5,6 +5,7 @@ import {Main} from "./components/main/Main";
 import {Skills} from "./components/skills/Skills";
 import MyWorks from "./components/my-works/MyWorks";
 import RemoteWork from "./components/block4/RemoteWork";
+import Contacts from "./components/contacts/Contacts";
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
             <Skills/>
             <MyWorks/>
             <RemoteWork/>
+            <Contacts/>
         </div>
     );
 }
